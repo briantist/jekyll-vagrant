@@ -28,5 +28,8 @@ apt-get -y install python-html2text
 #install github pages requirements (jekyll)
 sudo gem update --system
 sudo gem install github-pages
+sudo gem install jekyll_inline_highlight
 
 apt-get -y install nodejs
+
+echo Update git config!
